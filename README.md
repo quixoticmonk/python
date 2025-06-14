@@ -1,4 +1,4 @@
-# Python - Snake Game
+# Python - A Snake Game
 
 A classic Snake game implementation using Python and Pygame with Q as the pair programmer.
 
